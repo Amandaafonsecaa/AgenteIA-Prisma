@@ -1,0 +1,28 @@
+# Core
+langchain>=0.3.0
+langchain-community>=0.3.0
+langchain-text-splitters>=0.3.0
+langgraph>=0.2.0
+
+# LLMs
+langchain-google-genai>=0.3.0
+google-generativeai>=0.7.0
+
+# Embeddings e Vetores
+faiss-cpu>=1.8.0
+sentence-transformers>=2.7.0
+huggingface-hub>=0.24.0
+
+# Document loaders
+pymupdf>=1.24.0
+
+# Visualização de grafos
+pygraphviz>=1.13
+graphviz>=0.20.3
+
+# Utilitários
+tqdm>=4.66.0
+numpy>=1.26.0
+
+# Streamlit (para futura interface web)
+streamlit>=1.36.0
